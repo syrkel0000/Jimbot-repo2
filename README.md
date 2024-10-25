@@ -5,3 +5,5 @@ some text
 
 1. Local development or something.
 there is a some changes in this file
+
+now this changes are going tobe unecessary so please don't add this into repo!
